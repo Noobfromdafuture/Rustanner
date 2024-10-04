@@ -1,6 +1,6 @@
 # Rustanner
 
-Rustanner is a port scanner written in Rust, using the Tokio library to perform asynchronous network operations. It scans a range of ports on a given IP address and checks which ports are open.
+Rustanner is a port scanner written in Rust, using the Tokio library to perform asynchronous network operations. It scans a range of ports on a given IP address and checks which ports are open. This is the "beta version", some changes are on the way.
 
 ## Prerequisites
 
@@ -10,7 +10,7 @@ Before running the program, ensure you have **Rust** installed on your system. I
 
 To compile the project, follow these steps:
 
-1. Clone the repository (if applicable):
+1. Clone the repository:
    ```bash
    git clone <repository-url>
    ```
